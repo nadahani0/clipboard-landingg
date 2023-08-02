@@ -1,0 +1,255 @@
+body{
+    margin: 0px;
+}
+.first{
+    background-image: url(../images/mmmm.png);
+    text-align: center;
+    
+   
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+    
+}
+.first svg {
+    margin-top: 190px;
+
+}
+.first h2{
+    
+    font-weight: 600;
+    font-size: 2.5rem;
+    color: hsl(210, 10%, 33%);
+    
+}
+*{
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+.first p{
+    color: hsl(201, 11%, 66%);
+    font-weight: 400;
+    text-align: center;
+    font-size: 1.2rem;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.btn1{
+    color: #fff;
+    cursor: pointer;
+    font-size: 23px;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-right: 1rem;
+    font-weight: 400;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.7);
+    background-color: #28a745!important;
+}
+.btn2{
+    
+    color: #fff;
+    cursor: pointer;
+    font-size: 23px;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-right: 1rem;
+    font-weight: 400;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.7);
+    background-color: #0062cc!important;
+}
+.para1{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.para1 h2{
+    
+    font-weight: 600;
+    font-size: 2.5rem;
+    color: hsl(210, 10%, 33%);
+    margin-top: 30px;
+
+
+}
+.para1 p{
+    color: hsl(201, 11%, 66%);
+    font-weight: 400;
+    text-align: center;
+    font-size: 22px;
+    margin: -2px 290px 90px 290px;
+}
+.sec{
+    display: flex;
+    margin-top: 50px;
+}
+.sec img{
+    width: 90%;
+    margin-left: 40px;
+}
+.sec h3{
+    margin-left: 30px;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 1.5rem;
+}
+.sec p{
+    font-size: 18px;
+    font-weight: 400;
+    color: hsl(201, 11%, 66%);
+    margin: auto;
+    margin-left: 30px;
+    margin-right: 200px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom:30px ;
+}
+.thr{
+    text-align: center;
+
+}
+.thr h1{
+    font-weight: 600;
+    font-size: 2.5rem;
+    color: hsl(210, 10%, 33%);
+}
+.thr p{
+    color: hsl(201, 11%, 66%);
+    font-weight: 400;
+    text-align: center;
+    font-size: 1.2rem;
+    margin: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 80px;
+}
+.img{
+    margin-left: 300px;
+    margin-right: 300px;
+    width: 80%;
+}
+.for{
+    text-align: center;
+}
+.for h1{
+    font-weight: 600;
+    font-size: 2.5rem;
+    color: hsl(210, 10%, 33%);
+
+}
+.for p{
+    color: hsl(201, 11%, 66%);
+    font-weight: 400;
+    text-align: center;
+    font-size: 1.2rem;
+    margin: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+    /* margin-bottom: 80px; */
+}
+.fif{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.fif img{
+    vertical-align: middle;
+    border-style: none;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    /* margin-left: 10px; */
+}
+.left{
+    margin-left: 50px;
+    text-align: center;
+}
+.left h2{
+    font-weight: 600;
+    color: hsl(210, 10%, 33%);
+    font-size:  1.5rem;
+}
+.left p{
+    color: hsl(201, 11%, 66%);
+    font-weight: 400;
+    text-align: center;
+    font-size: 17px;
+    margin: auto;
+}
+.images{
+    display: flex;
+    justify-content: space-around;
+}
+.images img{
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -30px;
+    margin-left: -30px;
+    margin-top: 100px;
+}
+.six{
+    text-align: center;
+    margin-top: 100px;
+}
+.six h2{
+    font-weight: 600;
+    font-size: 2.5rem;
+    color: hsl(210, 10%, 33%);
+ line-height: 1.2;
+}
+.six p{
+    color: hsl(201, 11%, 66%);
+    font-weight: 400;
+    text-align: center;
+    font-size: 1.2rem;
+    margin: auto;
+    margin-bottom: 60px;
+    margin: -2px 450px 40px 450px;
+}
+.fab{
+    font-size: 30px;
+    padding-right: 1.5rem;
+    color: hsl(202, 6%, 39%);
+    margin-top: 100px;
+    /* margin-right: 230px; */
+}
+.last{
+    justify-content: space-around;
+    display: flex;
+    background-color: #eaeff2;
+    text-align: center;
+    margin-top: 50px;
+}
+.last h4{
+    color: hsl(203, 32%, 71%);
+    font-weight: 400;
+    text-align: center;
+    font-size: 20px;
+    line-height: 30px;
+}
+.last img{
+    margin-top: 50px;
+    width: 100px;
+    margin-left: 230px;
+}
+/* .btn1:hover{
+    background-color: #04361d;!important
+} */
+.btn1:hover{
+    background-color: #05651b !important;
+}
+.btn2:hover{
+    background-color: rgb(9, 9, 154) !important;
+}
+
+
+
+
+
+
+
+
+
+
+
